@@ -6,7 +6,7 @@
 
 - **Google Data Analytics Professional Certificate**  
   *Coursera (2023)*  
-  📄 [View Certificate](google_data_analytics.pdf)
+  📄 [View Certificate](Google_Data_Analytics_Professional.pdf)
 
 - **Customer Segmentation with Machine Learning**  
   *DataCamp (2023)*  
