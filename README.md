@@ -8,9 +8,9 @@
   *Coursera (2023)*  
   📄 [View Certificate](Google_Data_Analytics_Professional.pdf)
 
-- **Customer Segmentation with Machine Learning**  
+- **Kaggle Data Cleneing with python**  
   *DataCamp (2023)*  
-  📄 [View Certificate](customer_segmentation_datacamp.pdf)
+  📄 [View Certificate](Kaggle_Data_Cleaning_Python.png)
 
 - **SQL for Data Science Nanodegree**  
   *Udacity (2022)*  
